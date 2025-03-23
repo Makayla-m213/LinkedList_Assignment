@@ -11,6 +11,7 @@ Rules of Big O Notation
 i. Constant Time Complexity[O(1)]
 an algorithm has the constant time complexity if it's execution time usually doesn't depend on the size of input.
 Example:
+
 public static int getFirstElement(int[] arr) {
     return arr[0];
 }
